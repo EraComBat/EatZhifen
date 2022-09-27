@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatZhifen
 
 _网页小游戏_
 pvz同人游(?)
@@ -15,9 +15,7 @@ pvz同人游(?)
 
 小游戏：植 粉 被 撅 力
 
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Page](https://arcxingye.github.io/EatKano/index.html)
+[游玩](https://eracombat.github.io/EatZhifen/)
 
 ## 注意
 原仓库为EatKano,开源按钮在游戏结束后可以看到
